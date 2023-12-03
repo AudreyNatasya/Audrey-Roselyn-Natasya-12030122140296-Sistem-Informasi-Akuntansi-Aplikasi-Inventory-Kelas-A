@@ -114,6 +114,10 @@ Halaman "borrowers" dalam sistem informasi inventory bisa memiliki beberapa fung
 
    Di halaman ini admin juga bisa melihat nama-nama peminjam yang akunnya masih aktif atau tidak.
 
+### Berikut ini flowchart terkait sistem informasi inventory 👇
+
+![Audrey Natasya Tugas SIA SI Inventory drawio](https://github.com/AudreyNatasya/Aplikasi-Inventory-Tugas-SIA-Kelas-A/assets/152130643/0eee76c1-05b6-4c9c-84ef-c6c970153cf5)
+
 ### Berikut ini structure terkait sistem informasi inventory 👇
 
 ![structure inventory](https://github.com/AudreyNatasya/Aplikasi-Inventory-Tugas-SIA-Kelas-A/assets/152130643/b132e3cd-217e-472c-970f-6b06a872f0ce)
