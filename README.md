@@ -112,4 +112,12 @@ Halaman "borrowers" dalam sistem informasi inventory bisa memiliki beberapa fung
 3. Verifikasi dan Otorisasi:
    Halaman ini dapat berfungsi sebagai alat untuk memverifikasi kelayakan peminjaman dan memberikan otorisasi. Misalnya, sistem dapat memeriksa apakah peminjam memiliki hak untuk meminjam barang tertentu atau apakah ada batasan jumlah barang yang dapat dipinjam.
 
-   Di halaman ini admin juga bisa melihat nama-nama peminjam yang akunnya masih aktif atau tidak. 
+   Di halaman ini admin juga bisa melihat nama-nama peminjam yang akunnya masih aktif atau tidak.
+
+### Berikut ini structure terkait sistem informasi inventory 👇
+
+![structure inventory](https://github.com/AudreyNatasya/Aplikasi-Inventory-Tugas-SIA-Kelas-A/assets/152130643/b132e3cd-217e-472c-970f-6b06a872f0ce)
+
+### Berikut ini database terkait sistem informasi inventory 👇
+
+![database invetory](https://github.com/AudreyNatasya/Aplikasi-Inventory-Tugas-SIA-Kelas-A/assets/152130643/c10cb43f-ec8b-4e02-9060-89a3174daec3)
