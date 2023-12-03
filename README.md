@@ -85,7 +85,7 @@ Menyediakan visibilitas terhadap inventaris yang tersedia di setiap departemen.
 Nantinya di halaman departments ini, admin bisa menghapus atau mengubah barang-barang persediaan yang ad, dan megetahui  lokasi di mana barang-barang tersebut tersedia 
 
 
-### Halaman List of Borrowers
+### Halaman List of Borrowers 👇
 
 Halaman "borrowers" dalam sistem informasi inventory bisa memiliki beberapa fungsi yang berkaitan dengan peminjaman barang atau inventaris. Berikut beberapa fungsi umum yang mungkin dimiliki oleh halaman "borrowers" dalam sistem informasi inventory:
 
