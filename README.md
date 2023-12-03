@@ -22,6 +22,9 @@ Launch the app
 ```bash
  php artisan serve
  ```
+### Aplikasi Inventory
+Aplikasi inventory adalah aplikasi atau perangkat lunak yang dirancang untuk membantu perusahaan atau organisasi dalam mengelola dan melacak persediaan atau stok barang mereka. Tujuan utama dari aplikasi ini adalah untuk mempermudah pemantauan, pengelolaan, dan pengendalian stok barang atau bahan yang dimiliki oleh suatu entitas.
+
 ## Screenshots Aplikasi Inventory (Gambaran tampilan aplikasi)
 
 ### Halaman sign up 👇
@@ -125,3 +128,7 @@ Halaman "borrowers" dalam sistem informasi inventory bisa memiliki beberapa fung
 ### Berikut ini database terkait sistem informasi inventory 👇
 
 ![database invetory](https://github.com/AudreyNatasya/Aplikasi-Inventory-Tugas-SIA-Kelas-A/assets/152130643/c10cb43f-ec8b-4e02-9060-89a3174daec3)
+
+### Berikut ini laporan mengenai penjelasan lebih lanjut tentang flowchart, database, structure, dan aplikasi dari sistem informasi inventory. Silahkan di klik ya. Terima kasih
+[Uploading Audrey Roselyn Natasya 12030122140296_Laporan Tugas SIA Aplikasi Inventory.pdf…]()
+
