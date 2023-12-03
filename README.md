@@ -26,6 +26,7 @@ Launch the app
 
 ### Halaman sign up 👇
 
+![Halaman sign up](https://github.com/AudreyNatasya/Aplikasi-Inventory-Tugas-SIA-Kelas-A/assets/152130643/bf7e98d4-3948-40d7-9f22-a46e48772570)
 
 - Fungsi utama dari halaman sign-up adalah memberikan pengguna kemampuan untuk membuat akun pribadi. Dengan membuat akun, pengguna dapat memiliki identitas unik dalam sistem.
 - Setelah membuat akun, halaman sign-up dapat mencakup langkah-langkah untuk memberikan izin akses tertentu. Ini dapat termasuk memilih jenis akses yang diperlukan untuk sistem inventory, seperti akses penuh, akses terbatas, atau akses hanya baca.
@@ -33,9 +34,14 @@ Launch the app
 
 ### Halaman Dashboard 👇
 
+![halaman dashboard](https://github.com/AudreyNatasya/Aplikasi-Inventory-Tugas-SIA-Kelas-A/assets/152130643/e1ba64cd-9f55-4df7-88b0-a34834e471e2)
+
 Halaman dashboard dalam sistem inventory memiliki peran penting sebagai pusat kontrol dan visualisasi informasi kunci terkait stok barang, transaksi, dan performa umum sistem. 
 
+
 ### Halaman List of Items 👇
+
+![List of items](https://github.com/AudreyNatasya/Aplikasi-Inventory-Tugas-SIA-Kelas-A/assets/152130643/d123c340-39c2-45b8-a17d-0ebc70fdd4bc)
 
 Halaman "List of Items" pada sistem inventory berfungsi sebagai daftar lengkap barang atau item yang tersedia dalam inventaris suatu organisasi atau perusahaan. Fungsi utama halaman ini adalah untuk memberikan informasi yang jelas dan terstruktur mengenai stok barang yang dimiliki. Berikut adalah beberapa fungsi utama dari halaman "List of Items" dalam sistem inventory:
 
@@ -48,6 +54,8 @@ Memberikan deskripsi rinci atau informasi terkait setiap item, termasuk kode bar
 Memudahkan identifikasi setiap barang dan membantu dalam proses pencarian.
 
 ### Halaman List of Suplliers 👇
+
+![list of suppliers](https://github.com/AudreyNatasya/Aplikasi-Inventory-Tugas-SIA-Kelas-A/assets/152130643/0e15ce75-605c-441a-b44a-d54ea96a373f)
 
 Halaman "List of Suppliers" pada sistem inventory berfungsi sebagai daftar atau kumpulan informasi mengenai pemasok atau supplier yang terlibat dalam rantai pasok suatu perusahaan atau organisasi. Fungsi utama dari halaman ini adalah untuk memberikan visibilitas dan manajemen yang efektif terhadap informasi terkait pemasok. Berikut beberapa fungsi utama dari halaman "List of Suppliers" pada sistem inventory:
 
@@ -65,12 +73,16 @@ Menyediakan data terkait kinerja setiap pemasok, seperti waktu pengiriman, kuali
 
 ### Halaman List of Categories 👇
 
+![list of categories](https://github.com/AudreyNatasya/Aplikasi-Inventory-Tugas-SIA-Kelas-A/assets/152130643/5b6adca9-9f3f-42aa-95f8-92bba0dc8158)
+
 Halaman kategori pada sistem inventaris berfungsi sebagai cara untuk mengorganisir dan mengelompokkan item inventaris berdasarkan karakteristik atau atribut tertentu. Fungsi utama dari halaman kategori dalam sistem inventaris melibatkan:
 - Organisasi Barang yang memungkinkan pengguna untuk mengelompokkan barang berdasarkan jenis, ukuran, merek, atau kriteria lainnya sehingga mudah dikelola dan ditemukan.
 
 Nantinya di halaman categories ini, admin bisa menghapus atau mengubah barang-barang persediaan yang ada. 
 
 ### Halaman List of Departments 👇
+
+![list of departments](https://github.com/AudreyNatasya/Aplikasi-Inventory-Tugas-SIA-Kelas-A/assets/152130643/6e9125b4-f672-4fa2-8666-190b22a68abe)
 
 Halaman Departemen dapat menyediakan informasi dan kontrol terkait departemen atau bagian-bagian yang terlibat dalam manajemen inventaris. Berikut adalah beberapa fungsi umum yang mungkin ada pada halaman Departemen dalam sistem informasi inventory:
 
@@ -86,6 +98,8 @@ Nantinya di halaman departments ini, admin bisa menghapus atau mengubah barang-b
 
 
 ### Halaman List of Borrowers 👇
+
+![list of borrowers](https://github.com/AudreyNatasya/Aplikasi-Inventory-Tugas-SIA-Kelas-A/assets/152130643/8975ec78-1381-4321-a716-7259d00ef501)
 
 Halaman "borrowers" dalam sistem informasi inventory bisa memiliki beberapa fungsi yang berkaitan dengan peminjaman barang atau inventaris. Berikut beberapa fungsi umum yang mungkin dimiliki oleh halaman "borrowers" dalam sistem informasi inventory:
 
