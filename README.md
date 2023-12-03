@@ -130,5 +130,5 @@ Halaman "borrowers" dalam sistem informasi inventory bisa memiliki beberapa fung
 ![database invetory](https://github.com/AudreyNatasya/Aplikasi-Inventory-Tugas-SIA-Kelas-A/assets/152130643/c10cb43f-ec8b-4e02-9060-89a3174daec3)
 
 ### Berikut ini laporan mengenai penjelasan lebih lanjut tentang flowchart, database, structure, dan aplikasi dari sistem informasi inventory. Silahkan di klik ya. Terima kasih
-[Uploading Audrey Roselyn Natasya 12030122140296_Laporan Tugas SIA Aplikasi Inventory.pdf…]()
+[Audrey Roselyn Natasya 12030122140296_Laporan Tugas SIA Aplikasi Inventory.pdf](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntan-Aplikasi-Inventory-Kelas-A/files/13538637/Audrey.Roselyn.Natasya.12030122140296_Laporan.Tugas.SIA.Aplikasi.Inventory.pdf)
 
