@@ -129,6 +129,29 @@ Halaman "borrowers" dalam sistem informasi inventory bisa memiliki beberapa fung
 
 ![database invetory](https://github.com/AudreyNatasya/Aplikasi-Inventory-Tugas-SIA-Kelas-A/assets/152130643/c10cb43f-ec8b-4e02-9060-89a3174daec3)
 
+### Source Code
+Source code merupakan dapat diartikan sebagai instruksi-instruksi yang diberikan kepada komputer untuk melakukan suatu tugas tertentu. Instruksi-instruksi ini ditulis dalam bahasa yang dapat dipahami oleh manusia, sehingga pengembang perangkat lunak dapat membaca dan memahaminya dengan mudah.
+
+### Berikut beberapa Source Code dari aplikasi Inventory 👇
+### 1. Source Code Profile
+![source code profile](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/41fc742c-f485-45c7-bd3b-ae874f31a9b0)
+
+### 2. Source Code Edit List of Items
+![source code items](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/c3b5be24-9005-4a6f-bad3-c0e910fad5e2)
+
+### 3. Source Code Edit List of Suppliers
+![source code suppliers](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/981f027c-1624-440a-a562-1d091996435a)
+
+### 4. Source Code Edit List of Categories
+![source code categories](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/c34755ae-c6c6-40d1-8030-9baad65ad4d1)
+
+### 5. Source Code Edit List of Departments
+![source code departments](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/6b56682b-42a8-4bc7-b07c-fbcddc3bfb4c)
+
+### 6. Source Code Edit List of Borrowers
+![source kode borrowers](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/3ac6e624-7083-44d7-84b2-657136e78ffe)
+
+
 ### Berikut ini laporan mengenai penjelasan lebih lanjut tentang flowchart, database, structure, dan aplikasi dari sistem informasi inventory. Silahkan di klik ya. Terima kasih
 [Audrey Roselyn Natasya 12030122140296_Laporan Tugas SIA Aplikasi Inventory.pdf](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntan-Aplikasi-Inventory-Kelas-A/files/13538637/Audrey.Roselyn.Natasya.12030122140296_Laporan.Tugas.SIA.Aplikasi.Inventory.pdf)
 
