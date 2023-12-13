@@ -114,6 +114,10 @@ Halaman "borrowers" dalam sistem informasi inventory bisa memiliki beberapa fung
 
 ![list of borrowers](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/7d412f16-4e56-4f8b-9ec5-71c7957e6d3a)
 
+### Berikut adalah flowchart terkait sistem informasi inventory 👇
+
+![Audrey Natasya Tugas SIA SI Inventory drawio](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/69d5fe91-d851-4d51-b155-3f63d718c03b)
+
 
 
 
