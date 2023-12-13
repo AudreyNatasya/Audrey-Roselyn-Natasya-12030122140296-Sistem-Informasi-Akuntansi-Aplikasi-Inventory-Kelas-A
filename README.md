@@ -1,3 +1,12 @@
+
+### Nama: Audrey Roselyn Natasya 
+### NIM : 12030122140296
+### Jurusan: Akuntansi S-1
+### Mata Kuliah/ kelas: Sistem Informasi Akuntansi/ kelas A
+### Dosen Pengampu: Bapak Dr. Totok Dewayanto, S.E.,M.Si., Akt.
+
+### Tugas SIA Membuat Aplikasi GitHub Inventory (Persediaan)
+
 ## Installation
 
 * clone the repo and `cd` into it
