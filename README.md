@@ -118,6 +118,46 @@ Halaman "borrowers" dalam sistem informasi inventory bisa memiliki beberapa fung
 
 ![Audrey Natasya Tugas SIA SI Inventory drawio](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/69d5fe91-d851-4d51-b155-3f63d718c03b)
 
+### Berikut adalah  database terkait sistem informasi pembelian 👇
+![database invetory](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/907ac150-ff74-4b3b-83d2-2c1c7276d9a9)
+
+### Berikut adalah  structure terkait sistem informasi pembelian 👇
+![structure inventory](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/353fe563-db18-4269-8a0c-8d8d8505372e)
+
+### Source Code 👇
+Secara umum, source code dapat diartikan sebagai instruksi-instruksi yang diberikan kepada komputer untuk melakukan suatu tugas tertentu. Instruksi-instruksi ini ditulis dalam bahasa yang dapat dipahami oleh manusia, sehingga pengembang perangkat lunak dapat membaca dan memahaminya dengan mudah.
+
+Source code memiliki peran yang sangat penting dalam pengembangan perangkat lunak. Kode sumber merupakan blueprint dari suatu program komputer, dan merupakan sumber utama untuk memahami bagaimana program tersebut bekerja. Kode sumber juga dapat digunakan untuk melakukan berbagai macam tugas, seperti:
+- Menjalankan program
+- Melakukan debugging program
+- Melakukan pengujian program
+- Melakukan modifikasi program
+- Mendistribusikan program
+
+Berikut saya tampilkan beberapa source code dari setiap list-list yang ada 👇
+
+### Source Code Edit Profil 👇
+![source code profile](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/942e0702-cb98-4ebd-b629-75922e4efa45)
+
+### Source Code List of Items 👇
+![source code items](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/17d382ed-bb2e-4600-b180-f9901bb1f4a4)
+
+### Source Code List of Suppliers 👇
+![source code suppliers](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/a4665730-d5d4-4270-a9e2-ddb108e8966a)
+
+### Source Code List of Categories 👇
+![source code categories](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/afd12dac-6c73-4db3-ac1f-118fdce73af2)
+
+### Source Code List of Departments 👇
+![source code departments](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/5ac80871-45e1-475c-a7f3-728229697c99)
+
+### Source Code List of Borrowers 👇
+![source kode borrowers](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/fc0e2fd2-9503-4bf6-975d-887c70577ef2)
+
+
+### Berikut merupakan hasil laporan beserta penjelasan mengenai sistem informasi dan aplikasi sistem pembelian yang telah saya buat. Silahkan di klik yaa!. Terima kasih 😄
+
+
 
 
 
