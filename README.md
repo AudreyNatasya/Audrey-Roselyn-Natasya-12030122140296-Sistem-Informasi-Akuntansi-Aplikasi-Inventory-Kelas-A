@@ -66,13 +66,14 @@ Fungsi utama halaman ini adalah untuk memberikan informasi yang jelas dan terstr
 ### Halaman List of Suppliers 👇
 Halaman "List of Suppliers" pada sistem inventory berfungsi sebagai daftar atau kumpulan informasi mengenai pemasok atau supplier yang terlibat dalam rantai pasok suatu perusahaan atau organisasi. Fungsi utama dari halaman ini adalah untuk memberikan visibilitas dan manajemen yang efektif terhadap informasi terkait pemasok. 
 Berikut beberapa fungsi utama dari halaman "List of Suppliers" pada sistem inventory:
-A.	Informasi Pemasok:
-•	Data Pemasok: 
-  Menyediakan informasi rinci mengenai setiap pemasok, seperti nama, alamat, nomor kontak, dan detail lainnya. Ini membantu dalam mengidentifikasi dan mengelola pemasok dengan lebih efisien.
-B.	Manajemen Kontak:
-•	 Kontak Pemasok: Memberikan akses cepat ke informasi kontak pemasok, seperti nomor telepon, alamat email, dan alamat fisik. Hal ini memudahkan komunikasi dan koordinasi dengan pemasok.
-C.	Pemantauan Kinerja Pemasok:
-•	Penilaian Kinerja: Menyediakan data terkait kinerja setiap pemasok, seperti waktu pengiriman, kualitas produk, dan layanan pelanggan. Pemantauan kinerja ini membantu dalam pengambilan keputusan terkait dengan pemilihan pemasok.
+- Informasi Pemasok
+  Data Pemasok: Menyediakan informasi rinci mengenai setiap pemasok, seperti nama, alamat, nomor kontak, dan detail lainnya. Ini membantu dalam mengidentifikasi dan mengelola pemasok dengan 
+  lebih efisien.
+- Manajemen Kontak
+  Kontak Pemasok: Memberikan akses cepat ke informasi kontak pemasok, seperti nomor telepon, alamat email, dan alamat fisik. Hal ini memudahkan komunikasi dan koordinasi dengan pemasok.
+- Pemantauan Kinerja Pemasok
+  Penilaian Kinerja: Menyediakan data terkait kinerja setiap pemasok, seperti waktu pengiriman, kualitas produk, dan layanan pelanggan. Pemantauan kinerja ini membantu dalam pengambilan 
+  keputusan terkait dengan pemilihan pemasok.
 
 ![list of suppliers](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/a0dbf320-81d7-42ed-8622-6e982bdc22f0)
 
