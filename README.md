@@ -39,3 +39,10 @@ Launch the app
  ```
 - That's it: launch the main URL
 
+### Screenshots Aplikasi Pembelian (Gambaran tampilan aplikasi Inventory)
+
+### Halaman Sign Up 👇
+-	Fungsi utama dari halaman sign-up adalah memberikan pengguna kemampuan untuk membuat akun pribadi. Dengan membuat akun, pengguna dapat memiliki identitas unik dalam sistem.
+-	Setelah membuat akun, halaman sign-up dapat mencakup langkah-langkah untuk memberikan izin akses tertentu. Ini dapat termasuk memilih jenis akses yang diperlukan untuk sistem inventory, seperti akses penuh, akses terbatas, atau akses hanya baca.
+![Halaman sign up](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/3c8fcd0a-774b-421d-a45a-1fdd87d4bb19)
+
