@@ -79,8 +79,9 @@ Berikut beberapa fungsi utama dari halaman "List of Suppliers" pada sistem inven
 ### Halaman List of Categories 👇
 Halaman kategori pada sistem inventaris berfungsi sebagai cara untuk mengorganisir dan mengelompokkan item inventaris berdasarkan karakteristik atau atribut tertentu. 
 Fungsi utama dari halaman kategori dalam sistem inventaris melibatkan:
-•	Organisasi Barang yang memungkinkan pengguna untuk mengelompokkan barang berdasarkan jenis, ukuran, merek, atau kriteria lainnya sehingga mudah dikelola dan ditemukan.
-Nantinya di halaman categories ini, admin bisa menghapus atau mengubah barang-barang persediaan yang ada.
+- Organisasi Barang yang memungkinkan pengguna untuk mengelompokkan barang berdasarkan jenis, ukuran, merek, atau kriteria lainnya sehingga mudah dikelola dan ditemukan.
+
+  Nantinya di halaman categories ini, admin bisa menghapus atau mengubah barang-barang persediaan yang ada.
 
 ![halaman list of categories new](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/6e14a2a4-3444-4df7-af83-a5dba7730c7a)
 
