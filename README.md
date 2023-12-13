@@ -1,9 +1,15 @@
+
+### Nama: Audrey Roselyn Natasya
+### NIM: 12030122140296
+### Jurusan: S1-Akuntansi
+### Mata Kuliah/ Kelas: Sistem Informasi Akuntansi/ Kelas A
+### Dosen Pengampu: Bapak Dr. Totok Dewayanto, S.E.,M.Si., Akt.
+
+### Tugas Sistem Informasi Akuntansi Membuat Aplikasi Sistem Informasi Inventory (Persediaan)
+
+
 # Inventory Management System
-
 A simple inventory management system using Laravel 8 framework and Bootstrap CSS 5. 
-
-## ERD
-![ERD](https://github.com/Dxhxm88/Inventory-System/blob/master/public/images/erd.PNG)
 
 ## How to install
 
