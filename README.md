@@ -119,30 +119,31 @@ Halaman "borrowers" dalam sistem informasi inventory bisa memiliki beberapa fung
 
 Penjelasan terkait flowchart diatas:
 1. Penyedia Barang atau Bahan
-   Seorang supplier bertanggung jawab menyediakan barang-barang atau bahan-bahan tertentu yang dibutuhkan oleh perusahaan atau organisasi. Barang tersebut dapat berupa produk jadi, bahan 
-   mentah, suku cadang, atau komponen lain yang diperlukan untuk produksi atau penjualan.
+   - Seorang supplier bertanggung jawab menyediakan barang-barang atau bahan-bahan tertentu yang dibutuhkan oleh perusahaan atau organisasi. Barang tersebut dapat berupa produk jadi, bahan 
+     mentah, suku cadang, atau komponen lain yang diperlukan untuk produksi atau penjualan.
 
 2. Pemesanan Barang:
-   Dalam sistem inventory, perusahaan biasanya melakukan pemesanan atau pembelian barang kepada supplier untuk menjaga stok atau memenuhi permintaan pelanggan. Pemesanan ini dapat didasarkan 
-   pada proyeksi permintaan atau rencana produksi.
+   - Dalam sistem inventory, perusahaan biasanya melakukan pemesanan atau pembelian barang kepada supplier untuk menjaga stok atau memenuhi permintaan pelanggan. Pemesanan ini dapat didasarkan 
+     pada proyeksi permintaan atau rencana produksi.
 
 3.	Penerimaan dan Pemeriksaan Barang
-   Setelah pemesanan dilakukan, barang yang diterima dari supplier akan diperiksa untuk memastikan kesesuaian dengan pesanan. Informasi ini kemudian dicatat dalam sistem inventory.
+   - Setelah pemesanan dilakukan, barang yang diterima dari supplier akan diperiksa untuk memastikan kesesuaian dengan pesanan. Informasi ini kemudian dicatat dalam sistem inventory.
 
 4.	Pengelolaan Hubungan dengan Pemasok
-   Perusahaan perlu memelihara hubungan yang baik dengan supplier. Ini melibatkan komunikasi yang efisien, negosiasi persyaratan kontrak, dan penilaian kinerja pemasok. Beberapa perusahaan 
-   bahkan menggunakan sistem manajemen rantai pasokan (supply chain management) untuk mengoptimalkan hubungan dengan pemasok mereka.
+   - Perusahaan perlu memelihara hubungan yang baik dengan supplier. Ini melibatkan komunikasi yang efisien, negosiasi persyaratan kontrak, dan penilaian kinerja pemasok. Beberapa perusahaan 
+     bahkan menggunakan sistem manajemen rantai pasokan (supply chain management) untuk mengoptimalkan hubungan dengan pemasok mereka.
 
 5.	Penyediaan Informasi Stok
-   Supplier juga dapat memberikan informasi terkait ketersediaan stok, harga, dan perubahan kondisi pasokan. Informasi ini membantu perusahaan dalam perencanaan inventaris dan pengelolaan stok.
-
+   - Supplier juga dapat memberikan informasi terkait ketersediaan stok, harga, dan perubahan kondisi pasokan. Informasi ini membantu perusahaan dalam perencanaan inventaris dan pengelolaan 
+     stok.
+     
 6.	Pembayaran dan Faktur
-    Setelah barang diterima dan diverifikasi, perusahaan perlu melakukan pembayaran kepada supplier sesuai dengan persyaratan pembayaran yang disepakati. Faktur dari supplier juga harus dicatat 
-    dalam sistem keuangan.
+   - Setelah barang diterima dan diverifikasi, perusahaan perlu melakukan pembayaran kepada supplier sesuai dengan persyaratan pembayaran yang disepakati. Faktur dari supplier juga harus 
+     dicatat dalam sistem keuangan.
 
-7.	Pengaruh pada Ketersediaan dan Layanan Pelanggan
-   Kinerja supplier dapat memiliki dampak langsung pada ketersediaan barang dan layanan pelanggan perusahaan. Oleh karena itu, pemilihan supplier yang handal dan dapat diandalkan sangat 
-   penting untuk menjaga kelancaran operasional.
+7.	Pengaruh pada Ketersediaan dan Layanan Pelanggan.
+   - Kinerja supplier dapat memiliki dampak langsung pada ketersediaan barang dan layanan pelanggan perusahaan. Oleh karena itu, pemilihan supplier yang handal dan dapat diandalkan sangat 
+     penting untuk menjaga kelancaran operasional.
 
 
 ### Berikut adalah database terkait sistem informasi inventory 👇
