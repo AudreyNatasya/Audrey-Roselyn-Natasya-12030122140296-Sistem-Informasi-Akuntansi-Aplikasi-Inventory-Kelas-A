@@ -53,25 +53,32 @@ Halaman dashboard dalam sistem inventory memiliki peran penting sebagai pusat ko
 ![halaman dashboard](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/2bb774af-e05b-47d4-8d31-5bb2e77578b8)
 
 ### Halaman List of Items 👇
-Halaman "List of Items" pada sistem inventory berfungsi sebagai daftar lengkap barang atau item yang tersedia dalam inventaris suatu organisasi atau perusahaan. Fungsi utama halaman ini adalah untuk memberikan informasi yang jelas dan terstruktur mengenai stok barang yang dimiliki. Berikut adalah beberapa fungsi utama dari halaman "List of Items" dalam sistem inventory:
--	Pemantauan Stok: Memungkinkan pengguna untuk melihat jumlah stok setiap item secara real-time. Menyediakan informasi tentang barang yang tersedia dan yang sudah habis atau hampir habis.
--	Identifikasi Barang: Memberikan deskripsi rinci atau informasi terkait setiap item, termasuk kode barang, nama, kategori, dan atribut lainnya. Memudahkan identifikasi setiap barang dan membantu dalam proses pencarian.
+Halaman "List of Items" pada sistem inventory berfungsi sebagai daftar lengkap barang atau item yang tersedia dalam inventaris suatu organisasi atau perusahaan. 
+Fungsi utama halaman ini adalah untuk memberikan informasi yang jelas dan terstruktur mengenai stok barang yang dimiliki. Berikut adalah beberapa fungsi utama dari halaman "List of Items" dalam sistem inventory:
+-	Pemantauan Stok:
+  Memungkinkan pengguna untuk melihat jumlah stok setiap item secara real-time. Menyediakan informasi tentang barang yang tersedia dan yang sudah habis atau hampir habis.
+-	Identifikasi Barang:
+  Memberikan deskripsi rinci atau informasi terkait setiap item, termasuk kode barang, nama, kategori, dan atribut lainnya. Memudahkan identifikasi setiap barang dan membantu dalam proses 
+  pencarian.
 
 ![List of items](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/b65be16e-6f58-4754-bb1d-8a9644c70d55)
 
 ### Halaman List of Suppliers 👇
-Halaman "List of Suppliers" pada sistem inventory berfungsi sebagai daftar atau kumpulan informasi mengenai pemasok atau supplier yang terlibat dalam rantai pasok suatu perusahaan atau organisasi. Fungsi utama dari halaman ini adalah untuk memberikan visibilitas dan manajemen yang efektif terhadap informasi terkait pemasok. Berikut beberapa fungsi utama dari halaman "List of Suppliers" pada sistem inventory:
+Halaman "List of Suppliers" pada sistem inventory berfungsi sebagai daftar atau kumpulan informasi mengenai pemasok atau supplier yang terlibat dalam rantai pasok suatu perusahaan atau organisasi. Fungsi utama dari halaman ini adalah untuk memberikan visibilitas dan manajemen yang efektif terhadap informasi terkait pemasok. 
+Berikut beberapa fungsi utama dari halaman "List of Suppliers" pada sistem inventory:
 A.	Informasi Pemasok:
-•	Data Pemasok: Menyediakan informasi rinci mengenai setiap pemasok, seperti nama, alamat, nomor kontak, dan detail lainnya. Ini membantu dalam mengidentifikasi dan mengelola pemasok dengan lebih efisien.
+•	Data Pemasok: 
+  Menyediakan informasi rinci mengenai setiap pemasok, seperti nama, alamat, nomor kontak, dan detail lainnya. Ini membantu dalam mengidentifikasi dan mengelola pemasok dengan lebih efisien.
 B.	Manajemen Kontak:
-•	Kontak Pemasok: Memberikan akses cepat ke informasi kontak pemasok, seperti nomor telepon, alamat email, dan alamat fisik. Hal ini memudahkan komunikasi dan koordinasi dengan pemasok.
+•	 Kontak Pemasok: Memberikan akses cepat ke informasi kontak pemasok, seperti nomor telepon, alamat email, dan alamat fisik. Hal ini memudahkan komunikasi dan koordinasi dengan pemasok.
 C.	Pemantauan Kinerja Pemasok:
 •	Penilaian Kinerja: Menyediakan data terkait kinerja setiap pemasok, seperti waktu pengiriman, kualitas produk, dan layanan pelanggan. Pemantauan kinerja ini membantu dalam pengambilan keputusan terkait dengan pemilihan pemasok.
 
 ![list of suppliers](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/a0dbf320-81d7-42ed-8622-6e982bdc22f0)
 
 ### Halaman List of Categories 👇
-Halaman kategori pada sistem inventaris berfungsi sebagai cara untuk mengorganisir dan mengelompokkan item inventaris berdasarkan karakteristik atau atribut tertentu. Fungsi utama dari halaman kategori dalam sistem inventaris melibatkan:
+Halaman kategori pada sistem inventaris berfungsi sebagai cara untuk mengorganisir dan mengelompokkan item inventaris berdasarkan karakteristik atau atribut tertentu. 
+Fungsi utama dari halaman kategori dalam sistem inventaris melibatkan:
 •	Organisasi Barang yang memungkinkan pengguna untuk mengelompokkan barang berdasarkan jenis, ukuran, merek, atau kriteria lainnya sehingga mudah dikelola dan ditemukan.
 Nantinya di halaman categories ini, admin bisa menghapus atau mengubah barang-barang persediaan yang ada.
 
