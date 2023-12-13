@@ -7,7 +7,7 @@
 
 ### Tugas Sistem Informasi Akuntansi Membuat Aplikasi Sistem Informasi Inventory (Persediaan)
 
-### Sistem Informasi Inventory
+### Sistem Informasi Inventory 😄
 Aplikasi sistem persediaan atau inventory adalah suatu perangkat lunak yang dirancang untuk mengelola dan mengontrol informasi terkait persediaan atau stok barang suatu perusahaan atau organisasi. Persediaan mencakup semua barang atau bahan yang dimiliki oleh perusahaan untuk digunakan dalam proses produksi, distribusi, atau penjualan.
 Tujuan dari aplikasi sistem persediaan ini melibatkan pengelolaan dan pemantauan persediaan barang dengan lebih efisien, serta memberikan informasi yang akurat dan tepat waktu kepada pengambil keputusan dalam organisasi.
 Sistem informasi inventory yang saya buat ini menggunakan Laravel 8 framework dan Bootstrap CSS 5
