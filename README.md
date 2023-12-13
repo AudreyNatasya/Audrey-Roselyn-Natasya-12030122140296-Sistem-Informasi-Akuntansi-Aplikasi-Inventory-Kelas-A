@@ -186,6 +186,27 @@ Berikut saya tampilkan beberapa source code dari setiap list-list yang ada 👇
 ### Berikut merupakan hasil laporan beserta penjelasan mengenai sistem informasi dan aplikasi sistem pembelian yang telah saya buat. Silahkan di klik yaa!. Terima kasih 😄
 
 
+### Penutup dari aplikasi inventory yang saya buat:
+Pembuatan aplikasi inventory menggunakan aplikasi GitHub dan XAMPP dapat menjadi solusi yang efektif untuk mengelola stok barang. Aplikasi ini dapat dibuat dengan mudah dan cepat, serta dapat diakses dari mana saja.
+Berikut adalah kesimpulan dari pembuatan aplikasi inventory menggunakan aplikasi GitHub dan XAMPP:
+- Kemudahan penggunaan:
+  Aplikasi ini dapat dibuat dengan mudah dan cepat, bahkan oleh pengguna yang tidak memiliki pengalaman coding.
+-	Ketersediaan:
+  Aplikasi ini dapat diakses dari mana saja, selama pengguna memiliki koneksi internet.
+-	Keamanan:
+  Aplikasi ini dapat diakses dengan aman menggunakan akun GitHub.
+ 	
+Berikut adalah beberapa langkah yang perlu dilakukan untuk membuat aplikasi inventory menggunakan aplikasi GitHub dan XAMPP:
+-	Siapkan lingkungan kerja. Siapkan komputer dengan sistem operasi Windows, macOS, atau Linux. Kemudian, instal aplikasi XAMPP.
+-	Buat proyek GitHub. Buat proyek GitHub baru untuk menyimpan kode aplikasi inventory.
+-	Buat kode aplikasi. Buat kode aplikasi inventory sesuai dengan kebutuhan Anda.
+-	Komit kode ke GitHub. Commit kode aplikasi ke GitHub secara berkala.
+-	Buat database MySQL. Buat database MySQL untuk menyimpan data inventory.
+-	Konfigurasikan aplikasi. Konfigurasikan aplikasi untuk menggunakan database MySQL.
+-	Mulai aplikasi. Mulai aplikasi dan uji coba aplikasi.
+
+
+
 
 
 
