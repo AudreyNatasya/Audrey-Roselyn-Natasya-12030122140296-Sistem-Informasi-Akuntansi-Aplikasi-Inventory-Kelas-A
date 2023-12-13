@@ -82,7 +82,7 @@ Fungsi utama dari halaman kategori dalam sistem inventaris melibatkan:
 •	Organisasi Barang yang memungkinkan pengguna untuk mengelompokkan barang berdasarkan jenis, ukuran, merek, atau kriteria lainnya sehingga mudah dikelola dan ditemukan.
 Nantinya di halaman categories ini, admin bisa menghapus atau mengubah barang-barang persediaan yang ada.
 
-![halaman list of categories](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/6bdfc329-74a8-4352-aa23-05d7ae719fc7)
+![halaman list of categories new](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/6e14a2a4-3444-4df7-af83-a5dba7730c7a)
 
 ### Halaman List of Departments 👇
 Halaman Departemen dapat menyediakan informasi dan kontrol terkait departemen atau bagian-bagian yang terlibat dalam manajemen inventaris. Berikut adalah beberapa fungsi umum yang mungkin ada pada halaman Departemen dalam sistem informasi inventory:
@@ -95,7 +95,7 @@ Halaman Departemen dapat menyediakan informasi dan kontrol terkait departemen at
   
   Nantinya di halaman departments ini, admin bisa menghapus atau mengubah barang-barang persediaan yang ad, dan megetahui lokasi di mana barang-barang tersebut tersedia.
 
-![halaman list of departments](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/9f875ec3-fbc3-42d9-b7ae-7bee119739d0)
+![halaman list of departments new](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/1b3276df-1c26-4c0c-94b8-fa91188915a1)
 
 ### Halaman List of Borrowers 👇
 Halaman "borrowers" dalam sistem informasi inventory bisa memiliki beberapa fungsi yang berkaitan dengan peminjaman barang atau inventaris. Berikut beberapa fungsi umum yang mungkin dimiliki oleh halaman "borrowers" dalam sistem informasi inventory:
