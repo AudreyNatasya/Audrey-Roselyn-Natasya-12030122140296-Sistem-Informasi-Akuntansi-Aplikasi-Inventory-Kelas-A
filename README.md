@@ -137,12 +137,12 @@ Penjelasan terkait flowchart diatas:
    Supplier juga dapat memberikan informasi terkait ketersediaan stok, harga, dan perubahan kondisi pasokan. Informasi ini membantu perusahaan dalam perencanaan inventaris dan pengelolaan stok.
 
 6.	Pembayaran dan Faktur
-   Setelah barang diterima dan diverifikasi, perusahaan perlu melakukan pembayaran kepada supplier sesuai dengan persyaratan pembayaran yang disepakati. Faktur dari supplier juga harus dicatat 
-   dalam sistem keuangan.
+    Setelah barang diterima dan diverifikasi, perusahaan perlu melakukan pembayaran kepada supplier sesuai dengan persyaratan pembayaran yang disepakati. Faktur dari supplier juga harus dicatat 
+    dalam sistem keuangan.
 
 7.	Pengaruh pada Ketersediaan dan Layanan Pelanggan
-   Kinerja supplier dapat memiliki dampak langsung pada ketersediaan barang dan layanan pelanggan perusahaan. Oleh karena itu, pemilihan supplier yang handal dan dapat diandalkan sangat penting 
-   untuk menjaga kelancaran operasional.
+   Kinerja supplier dapat memiliki dampak langsung pada ketersediaan barang dan layanan pelanggan perusahaan. Oleh karena itu, pemilihan supplier yang handal dan dapat diandalkan sangat 
+   penting untuk menjaga kelancaran operasional.
 
 
 ### Berikut adalah database terkait sistem informasi inventory 👇
