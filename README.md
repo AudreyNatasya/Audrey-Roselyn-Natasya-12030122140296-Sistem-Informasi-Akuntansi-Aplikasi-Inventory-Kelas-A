@@ -38,3 +38,4 @@ Launch the app
  php artisan serve
  ```
 - That's it: launch the main URL
+
