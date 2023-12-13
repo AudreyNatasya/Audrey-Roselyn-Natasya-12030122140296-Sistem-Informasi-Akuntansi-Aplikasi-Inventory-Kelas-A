@@ -83,7 +83,7 @@ Fungsi utama dari halaman kategori dalam sistem inventaris melibatkan:
 •	Organisasi Barang yang memungkinkan pengguna untuk mengelompokkan barang berdasarkan jenis, ukuran, merek, atau kriteria lainnya sehingga mudah dikelola dan ditemukan.
 Nantinya di halaman categories ini, admin bisa menghapus atau mengubah barang-barang persediaan yang ada.
 
-![source code categories](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/c4d38c1f-e706-45e7-a3e8-9f59279ca425)
+![halaman list of categories](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/6bdfc329-74a8-4352-aa23-05d7ae719fc7)
 
 ### Halaman List of Departments 👇
 Halaman Departemen dapat menyediakan informasi dan kontrol terkait departemen atau bagian-bagian yang terlibat dalam manajemen inventaris. Berikut adalah beberapa fungsi umum yang mungkin ada pada halaman Departemen dalam sistem informasi inventory:
@@ -96,7 +96,7 @@ Halaman Departemen dapat menyediakan informasi dan kontrol terkait departemen at
   
   Nantinya di halaman departments ini, admin bisa menghapus atau mengubah barang-barang persediaan yang ad, dan megetahui lokasi di mana barang-barang tersebut tersedia.
 
-![source code departments](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/b6a710a0-7995-451e-934b-90e27f671fd8)
+![halaman list of departments](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/9f875ec3-fbc3-42d9-b7ae-7bee119739d0)
 
 ### Halaman List of Borrowers 👇
 Halaman "borrowers" dalam sistem informasi inventory bisa memiliki beberapa fungsi yang berkaitan dengan peminjaman barang atau inventaris. Berikut beberapa fungsi umum yang mungkin dimiliki oleh halaman "borrowers" dalam sistem informasi inventory:
