@@ -185,7 +185,7 @@ Berikut saya tampilkan beberapa source code dari setiap list-list yang ada 👇
 
 
 ### Berikut merupakan hasil laporan beserta penjelasan mengenai sistem informasi dan aplikasi sistem Inventory yang telah saya buat. Silahkan di klik yaa!. Terima kasih 😄
-[Audrey Roselyn Natasya 12030122140296_Laporan Tugas SIA Aplikasi Inventory.pdf](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/files/13666957/Audrey.Roselyn.Natasya.12030122140296_Laporan.Tugas.SIA.Aplikasi.Inventory.pdf)
+[Audrey Roselyn Natasya 12030122140296_Laporan Tugas SIA Aplikasi Inventory.pdf](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/files/13667025/Audrey.Roselyn.Natasya.12030122140296_Laporan.Tugas.SIA.Aplikasi.Inventory.pdf)
 
 
 ### Penutup dari aplikasi inventory yang saya buat:
