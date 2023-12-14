@@ -38,7 +38,7 @@ Launch the app
  ```
 - That's it: launch the main URL
 
-### Screenshots Aplikasi Pembelian (Gambaran tampilan aplikasi Inventory)
+### Screenshots Aplikasi Inventory (Gambaran tampilan aplikasi Inventory)
 
 ### Halaman Sign Up 👇
 -	Fungsi utama dari halaman sign-up adalah memberikan pengguna kemampuan untuk membuat akun pribadi. Dengan membuat akun, pengguna dapat memiliki identitas unik dalam sistem.
