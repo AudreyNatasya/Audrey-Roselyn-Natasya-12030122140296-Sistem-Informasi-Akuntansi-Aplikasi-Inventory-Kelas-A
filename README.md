@@ -1,9 +1,9 @@
 
-### Nama: Audrey Roselyn Natasya
-### NIM: 12030122140296
-### Jurusan: S1-Akuntansi
+### Nama              : Audrey Roselyn Natasya
+### NIM               : 12030122140296
+### Jurusan           : S1-Akuntansi
 ### Mata Kuliah/ Kelas: Sistem Informasi Akuntansi/ Kelas A
-### Dosen Pengampu: Bapak Dr. Totok Dewayanto, S.E.,M.Si., Akt.
+### Dosen Pengampu    : Bapak Dr. Totok Dewayanto, S.E.,M.Si., Akt.
 
 ### Tugas Sistem Informasi Akuntansi Membuat Aplikasi Sistem Informasi Inventory (Persediaan)
 
