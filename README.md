@@ -184,7 +184,7 @@ Berikut saya tampilkan beberapa source code dari setiap list-list yang ada 👇
 ![source kode borrowers](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/assets/152130643/fc0e2fd2-9503-4bf6-975d-887c70577ef2)
 
 
-### Berikut merupakan hasil laporan beserta penjelasan mengenai sistem informasi dan aplikasi sistem pembelian yang telah saya buat. Silahkan di klik yaa!. Terima kasih 😄
+### Berikut merupakan hasil laporan beserta penjelasan mengenai sistem informasi dan aplikasi sistem Inventory yang telah saya buat. Silahkan di klik yaa!. Terima kasih 😄
 [Audrey Roselyn Natasya 12030122140296_Laporan Tugas SIA Aplikasi Inventory.pdf](https://github.com/AudreyNatasya/Audrey-Roselyn-Natasya-12030122140296-Sistem-Informasi-Akuntansi-Aplikasi-Inventory-Kelas-A/files/13666957/Audrey.Roselyn.Natasya.12030122140296_Laporan.Tugas.SIA.Aplikasi.Inventory.pdf)
 
 
